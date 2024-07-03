@@ -1,0 +1,2 @@
+C:\Users\PC\Desktop\ExamenParcial3OptativoIII\ExamenParcialNegocios\ExamenParcialNegocios\obj\Debug\ExamenParcialNegocios.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ExamenParcial3OptativoIII\ExamenParcialNegocios\ExamenParcialNegocios\obj\Debug\ExamenParcialNegocios.csproj.CoreCompileInputs.cache
